@@ -1,6 +1,8 @@
 # AIVA: Emotion-Aware Virtual Companion
 
-**A prototype implementation of multimodal sentiment-aware conversational AI, inspired by the AIVA framework (arXiv:2509.03212)**
+<p align="center">
+  <img src="AIVA.png" width="300"/>
+</p>
 
 ---
 
